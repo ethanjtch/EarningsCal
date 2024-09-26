@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XQJi_E1WsvmUCKEaJ7icy
-SUMMARY:拼多多 发布财报
-DTSTAMP:20240925T165033Z
-DTSTART;VALUE=DATE:20240826
-DESCRIPTION:财务季度：Jun/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.67，当前市值: $1
-	92\,443\,326\,717。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
-	查看：https://www.futunn.com/hk/stock/PDD-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Z1mEsBc9sBVYiB0u347qG
+UID:TTYCjch2W_yGk17jbC3WO
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240925T165033Z
+DTSTAMP:20240926T044549Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jun/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,219\
 	,677\,701。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PBlKCb81lrPHGAWbArf9b
+UID:NLMszWCH7D1_x5IPqTcE1
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20240925T165033Z
+DTSTAMP:20240926T044549Z
 DTSTART;VALUE=DATE:20240905
 DESCRIPTION:财务季度：Jun/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.46)，当前市值: $8\
 	,849\,596\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f7wjPsvBC2NA_fMaXIPzy
+UID:AXd44BvmEQ1OBfENXc-Ya
 SUMMARY:台积电 发布财报
-DTSTAMP:20240925T165033Z
+DTSTAMP:20240926T044549Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $94
 	3\,771\,791\,610。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
