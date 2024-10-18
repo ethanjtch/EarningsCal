@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Gj5g-FPQWBsHji8c0h6iU
+UID:3520Fogea6d6eS2acChei
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20241017T164826Z
+DTSTAMP:20241018T044637Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $97
-	0\,533\,688\,871。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+	2\,348\,933\,841。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AHnZWhslLIl8HV5qpd0uI
+UID:RUSbF1Yk5wv7NQo4SKb73
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20241017T164826Z
+DTSTAMP:20241018T044637Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $15
 	8\,650\,400\,792。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tpkakutEkkGi2xHDnLs6A
+UID:XdcyXlsfrje-0ksQK1IU4
 SUMMARY:Shopify 发布财报
-DTSTAMP:20241017T164826Z
+DTSTAMP:20241018T044637Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.18，当前市
-	值: $105\,721\,366\,272。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $105\,618\,135\,352。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nN8WTBqAeq-7B6_EhI4hv
+UID:fdUHDYJk0emO8mS0BW5DH
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20241017T164826Z
+DTSTAMP:20241018T044637Z
 DTSTART;VALUE=DATE:20241114
 DESCRIPTION:财务季度：Sep/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $26\,240\
 	,580\,734。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
