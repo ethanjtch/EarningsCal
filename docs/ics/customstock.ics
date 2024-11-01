@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:zOPF7giRsObRO0bR1tQi8
+UID:z1T3Gh0lL9umSAPpAAF-a
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $97
 	2\,348\,933\,841。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dt7XBL1TJRGMqZStW-TuJ
-SUMMARY:理想汽车 盘前发布财报
-DTSTAMP:20241101T044549Z
+UID:kR4VbuTzQ87ZEfwkwNxq-
+SUMMARY:理想汽车 发布财报
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241031
-DESCRIPTION:财务季度：Sep/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $29\,758\
-	,870\,889。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
+DESCRIPTION:财务季度：Sep/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $26\,188\
+	,225\,226。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
 	//www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lEPsYxqtulp12XYsCY0ei
+UID:D5ADnx4zOkTOQWA9DwxT4
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241106
-DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $16
-	3\,508\,744\,213。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $14
+	6\,998\,699\,226。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WigxYDGqn5QLggIRsWVFB
+UID:E1Cy1AzdBa5pKdJa9eeVp
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241112
 DESCRIPTION:财务季度：Sep/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.18，当前市
-	值: $103\,243\,824\,185。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $100\,921\,128\,477。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,28 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RXOrCknri2ppCerftXst_
-SUMMARY:小鹏汽车 盘前发布财报
-DTSTAMP:20241101T044549Z
-DTSTART;VALUE=DATE:20241119
-DESCRIPTION:财务季度：Sep/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $10\,93
-	5\,535\,064。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
-	tps://www.futunn.com/hk/stock/XPEV-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:rYy76MrKPOiydYm4Q5F4_
-SUMMARY:京东 发布财报
-DTSTAMP:20241101T044549Z
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:财务季度：Sep/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $1.04，当前市值: $62\
-	,931\,886\,902。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
+UID:4yLY3nFBXOz78F4foHRK8
+SUMMARY:京东 盘前发布财报
+DTSTAMP:20241101T164643Z
+DTSTART;VALUE=DATE:20241114
+DESCRIPTION:财务季度：Sep/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $1.04，当前市值: $63\
+	,859\,436\,572。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/JD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +86,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2zK839mFa3WD_99k1U98u
+UID:9u79CsENTzIgZwjkelF-X
+SUMMARY:小鹏汽车 盘前发布财报
+DTSTAMP:20241101T164643Z
+DTSTART;VALUE=DATE:20241119
+DESCRIPTION:财务季度：Sep/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $10\,58
+	6\,729\,204。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+	tps://www.futunn.com/hk/stock/XPEV-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ScJ5B8JTitPFBF3pZgfuV
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241121
 DESCRIPTION:财务季度：Sep/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.87，当前市值: 
-	$240\,200\,353\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$238\,448\,132\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Bmfj0-i6FwYuvKz5g7yhC
+UID:cgOwQq4jK726gcA1CgTkK
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241121
-DESCRIPTION:财务季度：Sep/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.88，当前市值: $32
-	\,336\,843\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+DESCRIPTION:财务季度：Sep/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.88，当前市值: $31
+	\,989\,701\,427。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O7Qy60VpmG0I378Y1nnrN
+UID:LtfK8kNRtYetbrc3Db1EK
 SUMMARY:拼多多 发布财报
-DTSTAMP:20241101T044549Z
+DTSTAMP:20241101T164643Z
 DTSTART;VALUE=DATE:20241126
-DESCRIPTION:财务季度：Sep/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.54，当前市值: $1
-	66\,301\,743\,764。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+DESCRIPTION:财务季度：Sep/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.62，当前市值: $1
+	65\,916\,499\,384。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
