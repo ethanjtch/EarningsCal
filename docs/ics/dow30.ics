@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nRyYbkKZobvOEv1w1wIho
+UID:qLS5EeF67o6tJX8qR_DBg
 SUMMARY:赛富时 发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20241203
 DESCRIPTION:财务季度：Oct/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.78，当前市值: $3
 	16\,847\,080\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-HKXqfeNae0YiAPCAMdZZ
+UID:PRydiqF_cjGtAdTV9Dmpu
 SUMMARY:耐克 发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.63，当前市值: $114\
 	,763\,021\,245。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pNIqKZHQ5ZTi2mk0cyaUX
+UID:Zk9j-YODFsQ-86yKx_vw8
 SUMMARY:沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20250109
 DESCRIPTION:财务季度：Nov/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.37，当前市
 	值: $8\,084\,170\,165。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nWTIuxaZDrTgP4pTk_6mh
+UID:H0-QctHYqfSAHxRW38MV_
 SUMMARY:联合健康保险 发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20250110
 DESCRIPTION:财务季度：Dec/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.74，当前市值:
 	 $450\,249\,110\,409。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1hLIDg3WVHUzz8_8TUKBi
+UID:CVGW5zDdB6J5plWfVQV5m
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20250115
 DESCRIPTION:财务季度：Dec/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $3.86，当前市值: $65
 	5\,861\,704\,709。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_KTB1QqpvWsyH5qBnzQ_D
+UID:smLKM_3reWLI8LOUOpJzL
 SUMMARY:高盛 发布财报
-DTSTAMP:20241223T044555Z
+DTSTAMP:20241223T164543Z
 DTSTART;VALUE=DATE:20250121
-DESCRIPTION:财务季度：Dec/2024。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $7.90，当前市值: $
-	173\,902\,901\,735。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
+DESCRIPTION:财务季度：Dec/2024。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $7.94，当前市值: $
+	177\,704\,349\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
 	查看：https://www.futunn.com/hk/stock/GS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
