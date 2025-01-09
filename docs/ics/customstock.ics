@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:kTdqIC2YAsqdFgG72PuIm
+UID:TSbHQ0QwPqaq7GzGnUJLS
 SUMMARY:台积电 发布财报
-DTSTAMP:20250108T164717Z
+DTSTAMP:20250109T044456Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,096\,511\,689\,741。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7sorzKa8S4OFqc0DByaZx
+UID:qtfSwUHB7denTPWIOvOjj
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250108T164717Z
+DTSTAMP:20250109T044456Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.79，当前市值: 
 	$205\,593\,980\,697。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
