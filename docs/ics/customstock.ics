@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:wsuUMCygrrYh9wwjQyNi1
+UID:FmMwO_LWbRa3jdOhlWEti
 SUMMARY:台积电 发布财报
-DTSTAMP:20250110T044441Z
+DTSTAMP:20250110T164646Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,096\,511\,689\,741。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n86KIqnDzuGh3DREqjl3B
+UID:gygYSYgKXUUeqE6pG2ESN
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250110T044441Z
+DTSTAMP:20250110T164646Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.79，当前市值: 
 	$205\,593\,980\,697。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dn29CLKgrYDk4mE89x8nX
+UID:hahWD7pLGk0jQhhEVmlWf
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250110T044441Z
+DTSTAMP:20250110T164646Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $15
 	0\,202\,917\,156。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
