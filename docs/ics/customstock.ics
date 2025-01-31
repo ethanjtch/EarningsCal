@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:h908jjglziPnsmBGra7Np
+UID:cmzVbiHW_VnmvTMlpQtGK
 SUMMARY:台积电 发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,113\,989\,905\,588。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mrMSbBNCBjbMFKWGPcf_Y
+UID:g2OusQ9OB9B8cA5PNAQhs
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.84，当前市值: 
 	$228\,725\,841\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uvagFwxWivmkwF1B2U9OW
+UID:d5ePDN9dNGJJTsgUXPoXT
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $15
 	5\,498\,199\,386。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZtEBZ2u6FwMwguH6G4xvu
+UID:vqeDp9W5HxJE7vYhNzdkm
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250211
 DESCRIPTION:财务季度：Dec/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.35，当前市
 	值: $150\,645\,740\,563。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aep0VVCUaD6KXU-NI1Q5D
+UID:62uhju_n87g_GUwERpAoL
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250218
 DESCRIPTION:财务季度：Dec/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.27，当前市值: $31
 	\,421\,650\,169。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SBSibC0oWzePU7P3toGmB
+UID:PAmYRqVWmAZuo5v5SouVQ
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250130T164650Z
+DTSTAMP:20250131T044333Z
 DTSTART;VALUE=DATE:20250224
-DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,219\
-	,658\,116。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
+DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,366\
+	,253\,539。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
 	//www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
