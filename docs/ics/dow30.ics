@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Rng7taRyVaoRd7qPVzunY
+UID:wYvIItuH0PralO4mAxG-K
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250220
 DESCRIPTION:财务季度：Jan/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $780
 	\,925\,473\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5hkce2CCOjJMcKZ7APQCL
+UID:vLtC_AhZSOTOKtHJlThnc
 SUMMARY:家得宝 发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250225
 DESCRIPTION:财务季度：Jan/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.04，当前市值: $390\
 	,679\,581\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1OKtc1q_IrUuMm-L85kEW
+UID:iT_1_8D74vsylOgT6PRiy
 SUMMARY:赛富时 发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.95，当前市值: $2
 	92\,727\,160\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GB4qR-pPF4TgGCmxumfBl
+UID:ubSyXWoJaWOWseszp1IrY
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250320
-DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $107\
-	,443\,777\,072。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
+DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $105\
+	,994\,232\,722。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
 	https://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wY-u0RC8D3vVMoFgjWAy2
+UID:ERXigxtrQDUL-LFY0Xh5Y
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250327
 DESCRIPTION:财务季度：Feb/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.53，当前市
-	值: $9\,730\,368\,050。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
+	值: $9\,704\,443\,446。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
 	在富途查看：https://www.futunn.com/hk/stock/WBA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tmE1KfPcGpcLfRHUHWKPs
+UID:tskzLdVEo69p7YzfGtPMc
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250411
-DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.57，当前市值: $62
-	9\,655\,132\,434。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.57，当前市值: $64
+	9\,926\,901\,652。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JXwZvxu3p_Ev72fdo5gkO
+UID:c_-SH2-kk2JFsZrjO1Gxs
 SUMMARY:联合健康保险 发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $7.24，当前市值:
 	 $440\,452\,282\,586。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eyqZQtV_Q0OHMBsk3Ou25
+UID:8VyjQmE03YxKi3SnEst53
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20250317T044713Z
+DTSTAMP:20250317T165000Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.59，当前市值: $392\
 	,417\,444\,792。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
